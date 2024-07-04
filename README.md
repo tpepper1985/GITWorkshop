@@ -141,18 +141,7 @@ git init
 Maak en sla een HTML-bestand op met de naam `index.html` in de map.
 
 ```html
-<!DOCTYPE html>
-    <html>
-    <head>
-        <title>Hello World!</title>
-    </head>
-    <body>
-
-        <h1>Hello world!</h1>
-        <p>This is the first file in my new Git Repo.</p>
-
-    </body>
-</html>
+new
 ```
 
 Controleer de status:
